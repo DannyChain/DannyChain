@@ -1,16 +1,13 @@
-### Hi there 👋
+# DannyChain
 
-<!--
-**DannyChain/DannyChain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Entrepreneur | Developer | Trader | Admin at [Hypnochain](https://hypnochain.com/@dannychain) | [Hive-Engine Witness](https://votify.now.sh/dannychain)
 
-Here are some ideas to get you started:
+How to reach me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[**Hypnochain**](https://hypnochain.com/@dannychain) | [**RedBubble**](https://www.redbubble.com/people/DannyChain/shop) | [**NFT Showroom**](https://nftshowroom.com/dannychain/gallery/?r=dannychain) | [**3Speak**](https://3speak.co/user/dannychain) | [**Blog**](https://hivel.ink/@dannychain) | [**Twitter**](https://twitter.com/Danny_Chain) | [**Instagram**](https://www.instagram.com/thedannychain) | [**Keybase**](https://keybase.io/dannychain)
+
+Looking out to collaborate with open source projects, feel free to invite me 😄
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DannyChain&show_icons=true&theme=dark&layout=compact" />
+</a>
