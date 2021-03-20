@@ -4,7 +4,7 @@ Entrepreneur | Developer | Trader | Admin at [Hypnochain](https://hypnochain.com
 
 How to reach me:
 
-[**Hypnochain**](https://hypnochain.com/@dannychain) | [**RedBubble**](https://www.redbubble.com/people/DannyChain/shop) | [**NFT Showroom**](https://nftshowroom.com/dannychain/gallery/?r=dannychain) | [**3Speak**](https://3speak.co/user/dannychain) | [**Blog**](https://hivel.ink/@dannychain) | [**Twitter**](https://twitter.com/Danny_Chain) | [**Instagram**](https://www.instagram.com/thedannychain) | [**Keybase**](https://keybase.io/dannychain)
+[**Website**](https://dannychain.vercel.app) | [**Hypnochain**](https://hypnochain.com/@dannychain) | [**RedBubble**](https://www.redbubble.com/people/DannyChain/shop) | [**NFT Showroom**](https://nftshowroom.com/dannychain/gallery/?r=dannychain) | [**3Speak**](https://3speak.co/user/dannychain) | [**Blog**](https://hivel.ink/@dannychain) | [**Twitter**](https://twitter.com/Danny_Chain) | [**Instagram**](https://www.instagram.com/thedannychain) | [**Keybase**](https://keybase.io/dannychain)
 
 Looking out to collaborate with open source projects, feel free to invite me 😄
 
